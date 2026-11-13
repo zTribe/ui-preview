@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fdesign\u002F[section]","\u002Fdesign\u002Fcoin\u002F[id]","\u002Fdesign\u002Fmy-tribe\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
